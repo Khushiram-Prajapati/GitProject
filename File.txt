@@ -2,4 +2,6 @@ Hello world
 This is 1st time,we are changing the content of this file.
 
 created bug1 branch.
+
+Github account is created and a repo is also created to push the local repo to remote repo.
  

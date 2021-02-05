@@ -10,3 +10,6 @@ Changing the file content using github editor.
 Changes on local master to check rebase.
  
 Changing the file content using github editor.
+
+Changes on local master to check rebase.
+>>>>>>> File.txt : Changes done at local master to check rebase

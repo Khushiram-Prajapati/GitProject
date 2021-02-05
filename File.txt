@@ -5,3 +5,4 @@ created bug1 branch.
 
 Github account is created and a repo is also created to push the local repo to remote repo.
  
+ Changing the file content using github editor.
